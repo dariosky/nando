@@ -1,0 +1,21 @@
+﻿Parsing su SQL
+	67s (a casa)
+	85s (a lavoro)
+	81s (a lavoro il 15/10/08)
+	113s (a lavoro, forse non cachato?)
+	
+con le tabelle FullText che tengono parzialmente i dati:
+	93s (a lavoro)
+
+Occupazioni DariosKey:
+	con dati misti tra tabelle normali e fulltext:		3,33Mb	si carica in	1,4 s.
+	con dati solo in tabelle normali senza fulltext:	2,05Mb	si carica in	0,2 s.	si salva in 0,6 s.	15/10/08
+	con tabelle FTS in aggiunta e trigger						si carica in	1,7 s.				4 s.
+	con tabelle FTS in aggiunta e trigger 						si carica in	1,7 s.				0,6 (non salvando le FTS)
+
+** dati obsoleti **	
+Parsing su albero + copia in sql di dariosky (3Gb 17627 file):
+	136s + 1
+	
+DB 2 tree (ora viene fatto in modo dinamico):
+	148s (a lavoro)

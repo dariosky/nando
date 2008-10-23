@@ -172,6 +172,7 @@ namespace nando
             this.ExportToolStripMenuItem.Name = "ExportToolStripMenuItem";
             this.ExportToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
             this.ExportToolStripMenuItem.Text = "E&xport...";
+            this.ExportToolStripMenuItem.Visible = false;
             // 
             // toolStripMenuItem1
             // 

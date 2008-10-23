@@ -1,5 +1,0 @@
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\hstreeview_1_1_8\src\HS.Controls.Tree.Base\bin\Release\HS.Controls.Tree.Base.dll
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\hstreeview_1_1_8\src\HS.Controls.Tree.Base\bin\Release\HS.Controls.Tree.Base.pdb
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\hstreeview_1_1_8\src\HS.Controls.Tree.Base\obj\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\hstreeview_1_1_8\src\HS.Controls.Tree.Base\obj\Release\HS.Controls.Tree.Base.dll
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\hstreeview_1_1_8\src\HS.Controls.Tree.Base\obj\Release\HS.Controls.Tree.Base.pdb

@@ -1,8 +1,0 @@
-﻿Cerco di mantenere una compatibilità di formati.
-In modo che nei nuovi formati possa aggiungere tabelle e colonne.
-
-CREO: sempre tabelle e indici nuovi.
-COPIO: copio tutte le colonne conosciute.
-SALVO: CANCELLO creando un nuovo file vuoto, CREO e li COPIO dalla memoria.
-
-

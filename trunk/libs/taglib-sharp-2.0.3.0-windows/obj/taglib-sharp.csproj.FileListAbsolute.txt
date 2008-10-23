@@ -1,4 +1,0 @@
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\taglib-sharp-2.0.3.0-windows\taglib-sharp-2.0.3.0-windows\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\taglib-sharp-2.0.3.0-windows\taglib-sharp-2.0.3.0-windows\bin\Debug\taglib-sharp.pdb
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\taglib-sharp-2.0.3.0-windows\taglib-sharp-2.0.3.0-windows\obj\Debug\taglib-sharp.dll
-C:\Documents and Settings\DARIOSKY\Desktop\Dariosky\MION\dotNET\nando\libs\taglib-sharp-2.0.3.0-windows\taglib-sharp-2.0.3.0-windows\obj\Debug\taglib-sharp.pdb
